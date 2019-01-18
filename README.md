@@ -15,7 +15,7 @@ The following code is a completely reproducible code with exhaustive comments, w
 
 1.	Editted twitter scrapper in Python 3.6 with a sample comment scrapped from Bandersnatch [Black Mirror Fan]
 2.	The graphs generated to compare scores of Beto & Ted have been aligned better for comparison.
-3.	Topic modelling at the end has been done in two ways with LDA:<\n>
-  A.	Bag of words with word-count using gensim & spacy<\n>
+3.	Topic modelling at the end has been done in two ways with LDA:<\br>
+  A.	Bag of words with word-count using gensim & spacy<\br>
   B.	TF-IDF using gensim
 
