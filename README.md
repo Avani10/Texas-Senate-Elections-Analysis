@@ -1,5 +1,5 @@
 # Texas-Senate-Elections-Analysis
-Analysis of Beto O'Rourke vs. ted Cruz tweets scrapped from Twitter
+Analysis of Beto O'Rourke vs. Ted Cruz tweets scrapped from Twitter
 
 This one is one of my most favorite codes, do go through it to enjoy the simplistic & elaborated structure.
 
@@ -13,7 +13,7 @@ Results were as follows:
 
 The following code is a completely reproducible code with exhaustive comments, with couple of new additions to my class project:
 
-1.	Editted twitter scrapper in Python 3.6 with a sample comment scrapped from Bandersnatch [Black Mirror Fan]
+1.	Editted twitter scrapper which is now in Python 3.6 with a sample comment scrapped for Bandersnatch [I am a Black Mirror Fan :)]
 2.	The graphs generated to compare scores of Beto & Ted have been aligned better for comparison.
 3.	Topic modelling at the end has been done in two ways with LDA:<br />
   A.	Bag of words with word-count using gensim & spacy libraries <br />
